@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue&display=swap');
+
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+:root{
+	--background: #323B3C;
+	--accent-color: #D54A43;
+	--text-color: #DCB38E;
+}

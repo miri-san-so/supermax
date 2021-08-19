@@ -11,3 +11,9 @@
 	--accent-color: #D54A43;
 	--text-color: #DCB38E;
 }
+
+.light{
+	--background: #ffffff;
+	--accent-color: #D54A43;
+	--text-color: #D54A43;
+}
